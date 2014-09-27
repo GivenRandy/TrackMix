@@ -37,4 +37,6 @@
     [self.slider setFloatValue:volume];
 }
 
+// Why do integrated VCSs never seem to work right?
+
 @end
